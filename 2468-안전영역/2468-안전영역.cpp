@@ -1,12 +1,9 @@
 //https://www.acmicpc.net/problem/2468 
-
 #include <bits/stdc++.h>
 using namespace std;
-
 int n , answer;
 int mapp[101][101], visited[101][101];
 int ny, nx; 
-
 int dy[4] = { -1, 0, 1, 0 };
 int dx[4] = { 0, 1, 0, -1 };
 
@@ -49,6 +46,7 @@ int main() {
 					cnt++;
 				}
 			}
+
 		}
 		// 지도 탐색 다 끝나고 ans 와 cnt 비교해서 최대값 갱신 
 		answer = max(answer, cnt);
