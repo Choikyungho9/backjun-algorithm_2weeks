@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2178-미로탐색", "2178-�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1012-유기농 배추", "1012-유기농 배추\1012-유기농 배추.vcxproj", "{0E0B3D14-8731-4EC1-8C4F-345CC4CA5325}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2468-안전영역", "2468-안전영역\2468-안전영역.vcxproj", "{4D74D15F-9362-4420-82A7-72BA293E3F9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{0E0B3D14-8731-4EC1-8C4F-345CC4CA5325}.Release|x64.Build.0 = Release|x64
 		{0E0B3D14-8731-4EC1-8C4F-345CC4CA5325}.Release|x86.ActiveCfg = Release|Win32
 		{0E0B3D14-8731-4EC1-8C4F-345CC4CA5325}.Release|x86.Build.0 = Release|Win32
+		{4D74D15F-9362-4420-82A7-72BA293E3F9F}.Debug|x64.ActiveCfg = Debug|x64
+		{4D74D15F-9362-4420-82A7-72BA293E3F9F}.Debug|x64.Build.0 = Debug|x64
+		{4D74D15F-9362-4420-82A7-72BA293E3F9F}.Debug|x86.ActiveCfg = Debug|Win32
+		{4D74D15F-9362-4420-82A7-72BA293E3F9F}.Debug|x86.Build.0 = Debug|Win32
+		{4D74D15F-9362-4420-82A7-72BA293E3F9F}.Release|x64.ActiveCfg = Release|x64
+		{4D74D15F-9362-4420-82A7-72BA293E3F9F}.Release|x64.Build.0 = Release|x64
+		{4D74D15F-9362-4420-82A7-72BA293E3F9F}.Release|x86.ActiveCfg = Release|Win32
+		{4D74D15F-9362-4420-82A7-72BA293E3F9F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
