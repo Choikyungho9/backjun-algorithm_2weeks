@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2828-사과담기게임", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2910-빈도정렬", "2910-빈도정렬\2910-빈도정렬.vcxproj", "{AAA94269-B8CF-4410-871A-F017DFF8154D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4659-비밀번호발음하기", "4659-비밀번호발음하기\4659-비밀번호발음하기.vcxproj", "{A14FB46C-FCF8-40A3-8877-F6BB7700B49F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{AAA94269-B8CF-4410-871A-F017DFF8154D}.Release|x64.Build.0 = Release|x64
 		{AAA94269-B8CF-4410-871A-F017DFF8154D}.Release|x86.ActiveCfg = Release|Win32
 		{AAA94269-B8CF-4410-871A-F017DFF8154D}.Release|x86.Build.0 = Release|Win32
+		{A14FB46C-FCF8-40A3-8877-F6BB7700B49F}.Debug|x64.ActiveCfg = Debug|x64
+		{A14FB46C-FCF8-40A3-8877-F6BB7700B49F}.Debug|x64.Build.0 = Debug|x64
+		{A14FB46C-FCF8-40A3-8877-F6BB7700B49F}.Debug|x86.ActiveCfg = Debug|Win32
+		{A14FB46C-FCF8-40A3-8877-F6BB7700B49F}.Debug|x86.Build.0 = Debug|Win32
+		{A14FB46C-FCF8-40A3-8877-F6BB7700B49F}.Release|x64.ActiveCfg = Release|x64
+		{A14FB46C-FCF8-40A3-8877-F6BB7700B49F}.Release|x64.Build.0 = Release|x64
+		{A14FB46C-FCF8-40A3-8877-F6BB7700B49F}.Release|x86.ActiveCfg = Release|Win32
+		{A14FB46C-FCF8-40A3-8877-F6BB7700B49F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
