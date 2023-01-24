@@ -1,4 +1,3 @@
-// https://www.acmicpc.net/problem/1012
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -11,7 +10,7 @@ int mapp[51][51];
 bool visited[51][51];
 
 void dfs(int y, int x) {
-	visited[y][x] = 1;
+	visited[y][x] == 1;
 	for (int i = 0; i < 4; i++) {
 		ny = y + dy[i];
 		nx = x + dx[i];
