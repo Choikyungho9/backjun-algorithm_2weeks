@@ -2,7 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int n, m, a[104][104], visited[104][104], ans;
+int n, m, a[104][104], visited[104][104];
 const int dy[] = { -1, 0, 1, 0 };
 const int dx[] = { 0, 1, 0, -1 };
 // cnt: 모두 녹아서 없어지는데 걸리는 시간
@@ -41,6 +41,7 @@ int main() {
 		dfs(0,0); // 4방향 탐색
 		// 치즈 바깥쪽 만났을때, 맨처음 만난 좌표를 0으로 바꿔서 녹는 것을 표현
 		for (pair<int, int> b : v) {
+			cnt2++;
 			a[b.first][b.second] = 0;
 		}
 		// 다 녹았는지 체크해야됨.
@@ -57,4 +58,5 @@ int main() {
 		// flag = 0이 내려오면 , 프로그램 종료.
 		if (!flag) break;
 	}
+	cout << cnt << "\n" << cnt2 << '\n';
 }
