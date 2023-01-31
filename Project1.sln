@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2852번-NBA농구", "2852�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1436-영화감독숌", "1436-영화감독숌\1436-영화감독숌.vcxproj", "{C10D6D07-084C-47F0-86A5-686A8753DBBA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9012-괄호", "9012-괄호\9012-괄호.vcxproj", "{15F7C054-F18A-4850-9835-B7087C1F781B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{C10D6D07-084C-47F0-86A5-686A8753DBBA}.Release|x64.Build.0 = Release|x64
 		{C10D6D07-084C-47F0-86A5-686A8753DBBA}.Release|x86.ActiveCfg = Release|Win32
 		{C10D6D07-084C-47F0-86A5-686A8753DBBA}.Release|x86.Build.0 = Release|Win32
+		{15F7C054-F18A-4850-9835-B7087C1F781B}.Debug|x64.ActiveCfg = Debug|x64
+		{15F7C054-F18A-4850-9835-B7087C1F781B}.Debug|x64.Build.0 = Debug|x64
+		{15F7C054-F18A-4850-9835-B7087C1F781B}.Debug|x86.ActiveCfg = Debug|Win32
+		{15F7C054-F18A-4850-9835-B7087C1F781B}.Debug|x86.Build.0 = Debug|Win32
+		{15F7C054-F18A-4850-9835-B7087C1F781B}.Release|x64.ActiveCfg = Release|x64
+		{15F7C054-F18A-4850-9835-B7087C1F781B}.Release|x64.Build.0 = Release|x64
+		{15F7C054-F18A-4850-9835-B7087C1F781B}.Release|x86.ActiveCfg = Release|Win32
+		{15F7C054-F18A-4850-9835-B7087C1F781B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
